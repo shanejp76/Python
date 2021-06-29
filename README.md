@@ -1,15 +1,16 @@
 # Python
 
-In this Achievement, I 
+In this Achievement, I was tasked with exploratory and prescriptive analysis for grocery delivery & pickup service Instacart. 
 
+In the process, I performed operations such as:
+  * data wrangling and consistency checks
+  * subsetting
+  * combining datasets
+  * deriving & aggregating new variables
+  * created a deliverable for hypothetical stakeholders
 
+Case Study on this project available here.
 
-
-
-challenged me to "learn by doing" SQL as a beginner. The fictitious movie-streaming business "Rockbuster Stealth" required that I:
-
-wrote moderately complex SQL queries to answer business questions
-presented results to technical & non-technical colleagues
 
 Folders are organized by file type.
 
