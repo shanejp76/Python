@@ -7,12 +7,13 @@ In the process, I performed operations such as:
   * subsetting
   * combining datasets
   * deriving & aggregating new variables
-  * created a deliverable for hypothetical stakeholders
+  * creating a deliverable for hypothetical stakeholders
 
 Case Study on this project [available here](https://drive.google.com/file/d/1r44tBRuZ_537g2PGmOEBfqcfqtKdlnqj/view?usp=sharing).
 
 
-Folders are organized by file type.
- >* "Instacart - Tableau.zip" is visuals extracted from the Instacart deliverable
- >* "Instacart - Python Visuals.zip" is visuals created during project. I can create Python charts, but I prefer the cleaner style of Tableau.
- >* 
+File details:
+ >* "Instacart - Tableau.zip" is visuals extracted from the Instacart deliverable.
+ >* "Instacart - Python Visuals.zip" is visuals created during project. Python charts are fine, but I prefer the cleaner style of Tableau.
+ >* "Instacart - Final Report.xlsx.zip" documents changes & findings for hypothetical Instacart stakeholders.
+ >* Files with prefix "Jupyter - " are from Jupyter Notebooks. 
