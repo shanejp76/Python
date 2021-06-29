@@ -9,7 +9,7 @@ In the process, I performed operations such as:
   * deriving & aggregating new variables
   * created a deliverable for hypothetical stakeholders
 
-Case Study on this project available here.
+Case Study on this project [available here](https://drive.google.com/file/d/1r44tBRuZ_537g2PGmOEBfqcfqtKdlnqj/view?usp=sharing).
 
 
 Folders are organized by file type.
