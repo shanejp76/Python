@@ -13,7 +13,5 @@ Case Study on this project [available here](https://drive.google.com/file/d/1r44
 
 
 Folders are organized by file type.
-
-"Preliminary Files" are answers to assignment questions that lead up to the final project.
-"Final Project" contains my data dictionary and an Excel document communicating my findings to a technical colleague.
-For the Tableau presentation for non-technical colleagues, click here.
+ >* "Instacart - Tableau.zip" is visuals extracted from the Instacart deliverable
+ >* "Instacart - Python Visuals.zip" is visuals extracted from the Instacart deliverable
